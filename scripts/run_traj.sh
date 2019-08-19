@@ -1,3 +1,4 @@
+#!/usr/bin/env bash
 python train.py \
   --dataset_name 'zara1' \
   --delim tab \
